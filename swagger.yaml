@@ -4,7 +4,7 @@ info:
   contact: {}
   version: "1.0"
 servers:
-  - url: https://jobs-api-ilia.herokuapp.com/api/v1
+  - url: https://jobs-api-4mn7.onrender.com/api/v1
     variables: {}
 paths:
   /auth/register:
